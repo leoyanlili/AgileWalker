@@ -9,4 +9,4 @@
 
 [关于我们](https://w.url.cn/s/AYZWI9D)
 
-![agile walker](https://www.agilewalker.com/agile-coach-competency-framework/qr_code/)
+![agile walker](https://www.agilewalker.com/wp-content/uploads/2020/05/QR_Code_agilewalker.png)
