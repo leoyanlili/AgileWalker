@@ -3,7 +3,7 @@
 
 [官方网站](https://www.agilewalker.com/)
 
-- 敏捷社区，请[移步这里](https://www.agilewalker.com/)
+- 这里的敏捷社区，请[移步这里](https://github.com/leoyanlili/AgileWalker/wiki/)
 
 欢迎微信公众号，有更多敏捷话题
 
