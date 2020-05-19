@@ -3,8 +3,8 @@
 
 [官方网站](https://www.agilewalker.com/)
 
-- 行业动态和社区信息，( https:/www.51scrum.com/ )
-- 志愿服务和心得体会，( https:/www.yespmo.com/ )
+- 行业动态和社区信息，【点这里】( https:/www.51scrum.com/ )
+- 志愿服务和心得体会，【点这里】( https:/www.yespmo.com/ )
 
 欢迎微信公众号，有更多敏捷话题
 
