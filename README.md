@@ -3,7 +3,8 @@
 
 [官方网站](https://www.agilewalker.com/)
 
-- 这里的敏捷社区，请[移步这里](https://github.com/leoyanlili/AgileWalker/wiki/)
+- 这里是社区信息，(https:/www.51scrum.com/)
+- 这里是心得体会，(https:/www.yespmo.com/)
 
 欢迎微信公众号，有更多敏捷话题
 
