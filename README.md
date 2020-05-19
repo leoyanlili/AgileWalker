@@ -7,6 +7,8 @@
 
 - 志愿服务和心得体会，[点这里](http://www.yespmo.com/) www.yespmo.com
 
+- 给我留言，[点这里](https://www.agilewalker.com/reachme/)
+
 欢迎微信公众号，有更多敏捷文化和Python软件开发相关话题
 
 [关于我们](https://w.url.cn/s/AYZWI9D)
